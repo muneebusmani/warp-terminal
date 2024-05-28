@@ -1,0 +1,29 @@
+{
+  "prefs": {
+    "AutosuggestionAcceptedCount": "2",
+    "AIAssistantRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-06-22T13:54:38.270797Z\"}",
+    "ExperimentId": "337a9850-175a-4812-8e3e-03cc3eee2fba",
+    "FontSize": "13.0",
+    "AliasExpansionBannerSeen": "true",
+    "SavedPrompt": "\"Default\"",
+    "FontName": "\"JetBrainsMono Nerd Font Mono\"",
+    "VimKeybindingsBannerState": "\"Dismissed\"",
+    "WelcomeTipsCompleted": "true",
+    "VimUnnamedSystemClipboard": "true",
+    "OpenFileEditor": "\"VSCode\"",
+    "Theme": "{\"Custom\":{\"name\":\"Catppuccin Mocha\",\"path\":\"/home/muneeb/.local/share/warp-terminal/themes/catppuccin_mocha.yml\"}}",
+    "NotebookFontSize": "14.0",
+    "ShouldDimInactivePanes": "true",
+    "ChangelogVersions": "{\"v0.2024.05.14.08.01.stable_04\":true}",
+    "VimModeEnabled": "false",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "SystemTheme": "false",
+    "HonorPS1": "false",
+    "Spacing": "\"Compact\"",
+    "AliasExpansionEnabled": "false",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"},{\"Action\":\"WarpAI\"},{\"Action\":\"SplitPane\"},{\"Action\":\"AiCommandSearch\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"CommandSearch\"},{\"Hint\":\"BlockAction\"},{\"Action\":\"ThemePicker\"},{\"Action\":\"CommandPalette\"}]",
+    "OverrideOpacity": "75",
+    "CompletionsOpenWhileTyping": "false"
+  }
+}
